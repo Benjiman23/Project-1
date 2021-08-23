@@ -3,7 +3,7 @@
 Automated ELK Stack Deployment
 The files in this repository were used to configure the network depicted below.
 
-Diagrams/BLS-Unit_13.png
+https://github.com/Benjiman23/Project-1/blob/ff2b0cb2a1877ea180fbd774318ec51817857088/Diagrams/BLS-Unit_13.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. 
 •	my-playbook.yml		-To configure WebVMs
@@ -56,7 +56,7 @@ The playbook implements the following tasks:
  
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance.
 
-Ansible/BLS-Project_1-ELK.png
+https://github.com/Benjiman23/Project-1/blob/90ecd5d1382c5bb701937bbd9af5a262812e1998/Ansible/BLS-Project_1-ELK.png
 
 Target Machines & Beats
 This ELK server is configured to monitor the following machines:
